@@ -1,0 +1,6 @@
+{
+  "name": "Scholaria Online Examination Portal",
+  "description": "A complete online examination portal for timed MCQ assessments, auto-saved progress, instant grading, and academic administration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
